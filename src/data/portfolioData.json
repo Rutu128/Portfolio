@@ -1,0 +1,200 @@
+{
+  "personal": {
+    "name": "Rutu Bhimani",
+    "title": "Full Stack Developer",
+    "description": "Computer Engineering student and full-stack developer with a strong foundation in MERN stack, database design, and real-time systems. Proven track record in building impactful applications, winning hackathons, and implementing intelligent systems using AI and ML.",
+    "email": "rutubhimani124@gmail.com",
+    "github": "https://github.com/Rutu128",
+    "linkedin": "https://linkedin.com/in/rutu-bhimani"
+  },
+  "education": {
+    "institution": "Charusat University",
+    "degree": "B.Tech in Computer Engineering",
+    "duration": "June 2022 - Present",
+    "gpa": "9.61/10.0"
+  },
+  "experience": [
+    {
+      "id": 1,
+      "company": "Cloud Express Solution",
+      "position": "Software Development Intern",
+      "duration": "October 2024 – December 2024",
+      "description": "Developed a User Interaction Tracking System that improved user retention by 25%. Applied ML algorithms to analyze sessions and adapt UI dynamically.",
+      "technologies": [
+        "JavaScript",
+        "React",
+        "Python",
+        "ML",
+        "Docker"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Skill-Augmentation",
+      "description": "Live project under NEP scheme for student point management. Designed multi-role system for 3,000+ users with a secure and scalable backend.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "Prisma"
+      ],
+      "github": "",
+      "live": "https://skill-augmentation.com"
+    },
+    {
+      "id": 2,
+      "title": "DR.Live",
+      "description": "Telemedicine platform with video calling, real-time chat, and a chatbot using Gemini and Langchain. Won ODOO×MSU hackathon.",
+      "technologies": [
+        "MongoDB",
+        "Express",
+        "React",
+        "Node.js",
+        "WebRTC",
+        "Socket.io",
+        "Langchain",
+        "Flask",
+        "Gemini"
+      ],
+      "github": "https://github.com/Vatsal2054/DrLive_Rutu_25",
+      "live": "https://dr-live.vatsalbharkhada.tech/"
+    },
+    {
+      "id": 3,
+      "title": "Alumni Hub",
+      "description": "Platform for alumni-student-teacher engagement with real-time messaging. Increased user activity by 35%.",
+      "technologies": [
+        "MongoDB",
+        "Express",
+        "React",
+        "Node.js",
+        "Socket.io"
+      ],
+      "github": "https://github.com/Rutu128/Alumni-System",
+      "live": "https://alumni-system.pages.dev/login"
+    },
+    {
+      "id": 4,
+      "title": "Credit Unify",
+      "description": "Winner of PDPU Hackathon - A web app that helps user to find their unified credit scrore from diffren beuros and chatbot helps user to find solustions of their credit issues ",
+      "technologies": [
+        "Next.js",
+        "Node.js",
+        "Tailwind CSS",
+        "Gemini API",
+        "PostgreSQL",
+        "Prisma"
+      ],
+      "github": "https://github.com/Vatsal2054/CreditUnify",
+      "live": "https://credit-unify.vercel.app/"
+
+    },
+    {
+      "id": 5,
+      "title": "Expency",
+      "description": "A web app that helps user to manage their expenses and income",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "github": "https://github.com/Rutu128/Expency",
+      "live": "https://expency.vercel.app/login"
+    },
+    {
+      "id": 6,
+      "title": "Taskify",
+      "description": "A web app that helps user to manage their tasks and notes",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "TypeScript"
+      ],
+      "github": "https://github.com/Rutu128/Taskify-Frontend",
+      "live": "https://taskify-frontend-three.vercel.app"
+    }
+  ],
+  "hackathons": [
+    {
+      "id": 1,
+      "name": "ODOO×MSU Hackathon",
+      "project": "DR.Live",
+      "position": "Winner",
+      "description": "Built an award-winning telemedicine platform recognized for its innovation and practical value.",
+      "technologies": [
+        "MERN",
+        "WebRTC",
+        "Langchain",
+        "Gemini"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Breach 2025 (PDPU)",
+      "project": "FinTech Solution - Credit Unify",
+      "position": "Runner-up",
+      "description": "Developed innovative FinTech solutions at Gujarat’s largest FinTech hackathon.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "Tailwind CSS",
+        "Gemini API"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "InnoTech 1.0 (CSPIT-CE)",
+      "project": "Alumni Hub",
+      "position": "Runner-up",
+      "description": "Showcased NEP-based student credit system among 100+ teams.",
+      "technologies": [
+        "MongoDB",
+        "Express",
+        "React",
+        "Node.js"
+      ]
+    }
+  ],
+  "skills": {
+    "frontend": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Shadcn UI",
+      "Redux",
+      "Tailwind CSS"
+    ],
+    "backend": [
+      "Node.js",
+      "Python",
+      "Flask",
+      "FastAPI",
+      "Express",
+      "Langchain"
+    ],
+    "database": [
+      "MongoDB",
+      "PostgreSQL",
+      "Redis"
+    ],
+    "cloud": [
+      "Docker",
+      "Firebase"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "Postman",
+      "Visual Studio Code",
+      "MongoDB Compass",
+      "Jira"
+    ]
+  }
+}
