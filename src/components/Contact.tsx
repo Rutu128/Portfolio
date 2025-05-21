@@ -1,7 +1,8 @@
 import { motion } from 'framer-motion'
 import portfolioData from '../data/portfolioData.json'
 import { FaGithub, FaLinkedin, FaEnvelope } from 'react-icons/fa'
-import { FormEvent, useState } from 'react'
+import type { FormEvent } from 'react'
+import { useState } from 'react'
 
 const Contact = () => {
   const { personal } = portfolioData
